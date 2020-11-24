@@ -1,0 +1,15 @@
+# cli関連
+fire
+# Sentry関連
+sentry_sdk
+# テスト関連
+pytest
+# slack関連
+slackweb
+# コーディングスタイル関連
+pep8
+flake8
+pylint
+# selenium
+selenium
+beautifulsoup4
